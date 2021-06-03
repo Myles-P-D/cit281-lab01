@@ -9,9 +9,9 @@ At this point I was not comfortable with the commands and had to write them on a
 
 ## Images: 
 
-![folders image](lab-01-folders.png "Folders image")
+![folders image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-folders.png?raw=true "Folders image")
 
-![lab 01 image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-node.png "lab 01 screenshot")
+![lab 01 image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-node.png?raw=true "lab 01 screenshot")
 
 
 **[Here](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-node.js)** is a link to the code below that was ran using node.js.  
