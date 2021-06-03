@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 mylesdavis  staff    0 Apr  1 22:34 lab-01-folders.txt
+drwxr-xr-x  4 mylesdavis  staff  128 Apr  1 16:02 p1
+drwxr-xr-x  2 mylesdavis  staff   64 Apr  1 15:45 p2
+drwxr-xr-x  2 mylesdavis  staff   64 Apr  1 15:46 p3
+drwxr-xr-x  2 mylesdavis  staff   64 Apr  1 15:46 p4
+drwxr-xr-x  2 mylesdavis  staff   64 Apr  1 15:46 p5
+drwxr-xr-x  2 mylesdavis  staff   64 Apr  1 15:46 p6
+drwxr-xr-x  2 mylesdavis  staff   64 Apr  1 15:46 p7
+drwxr-xr-x  2 mylesdavis  staff   64 Apr  1 15:46 p8
