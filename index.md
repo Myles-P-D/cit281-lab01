@@ -7,12 +7,6 @@ Personally the command line is a quite daunting when first looking at the termin
 I gained expereince using the command line to create directorieds as well as files locally on my macbook.    
 At this point I was not comfortable with the commands and had to write them on a stickynote in order to quickly refrence and eventually commit them to memory. 
 
-## Images: 
-
-![folders image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-folders.png?raw=true "Folders image")
-
-![lab 01 image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-node.png?raw=true "lab 01 screenshot")
-
 ## Code:
 
 **[Here](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-node.js)** is a link to the code below that was ran using node.js.  
@@ -28,6 +22,13 @@ for (let i = 2; i <= 10; i+=2)
     console.log(`Square of ${i} is ${square(i)}`);
 }
 ```
+
+## Images: 
+
+![folders image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-folders.png?raw=true "Folders image")
+
+![lab 01 image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-node.png?raw=true "lab 01 screenshot")
+
 ## Extra:
 
 **Below are the shortcuts we added to a .txt file in the command line.**
