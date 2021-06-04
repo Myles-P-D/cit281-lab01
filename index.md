@@ -30,7 +30,7 @@ for (let i = 2; i <= 10; i+=2)
 ```
 ## Extra:
 
-**Below are the shortcuts we added to a .txt file in the command line. 
+**Below are the shortcuts we added to a .txt file in the command line.**
 ```
 Copy selected text to buffer| cmd + C
 Paste from buffer| cmd + V
