@@ -26,14 +26,19 @@ for (let i = 2; i <= 10; i+=2)
 ```
 
 ## Images: 
-
+     
+Here is an image of the folders.    
+    
 ![folders image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-folders.png?raw=true "Folders image")
-
+     
+Here is an image of node output.    
+    
 ![lab 01 image](https://github.com/Myles-P-D/cit281-lab01/blob/main/lab-01-node.png?raw=true "lab 01 screenshot")
-
-## Extra:
-
-**Below are the shortcuts we added to a .txt file in the command line.**
+    
+## Extra:    
+    
+**Below are the shortcuts we added to a .txt file in the command line.**.   
+    
 ```
 Copy selected text to buffer| cmd + C
 Paste from buffer| cmd + V
